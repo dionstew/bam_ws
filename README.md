@@ -1,7 +1,7 @@
 # bam_ws
 
 ## Description
-This repository is created to contains source for my project named "Automated chicken feeder system". This project uses camera to detect and count the number of chicken in a pen. The feeder system works by taking the number of chickens detected, then count the amount of equivalent total of the chicken's feed. There are a specific hours for the feeding system works. Currently, this system is set to feed the chickens at 7am and 5pm. Besides, this system is initially built for (Arduino)ATMega2560 environment.
+This repository is created to contains source for my project named "Automated chicken feeder system". This project uses camera to detect and count the number of chicken in a pen. The feeder system works by taking the number of chickens detected, then count the amount of equivalent total of the chicken's feed. There are a specific hours for the feeding system works. Currently, this system is set to feed the chickens at 7am and 5pm. Besides, this system is initially built for (Arduino)ATMega2560 environment. To get a clear info of system's diagram, please set the view to a raw mode.
  
 ## System's Diagram
   __________                _______                  ____________________________          ___________________
@@ -20,4 +20,3 @@ This repository is created to contains source for my project named "Automated ch
 3. D5   ->  Signal  (Servo)
 4. D6   ->  SCK     (Sensor Loadcell) 
 5. D7   ->  DT      (Sensor Loadcell)
-
