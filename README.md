@@ -15,9 +15,9 @@ This repository is created to contains source for my project named "Automated ch
 4.  Actuaotor & Pen : Servo is the actuator. Actuator's role is to open or close the feeding valve at the Pen. 
 
 ## Arduino Digital Pin Connections:
-D3   ->  Trigger (HCSR-04)
-D4   ->  Echo    (HCSR-04)
-D5   ->  Signal  (Servo)
-D6   ->  SCK     (Sensor Loadcell) 
-D7   ->  DT      (Sensor Loadcell)
+1. D3   ->  Trigger (HCSR-04)
+2. D4   ->  Echo    (HCSR-04)
+3. D5   ->  Signal  (Servo)
+4. D6   ->  SCK     (Sensor Loadcell) 
+5. D7   ->  DT      (Sensor Loadcell)
 
